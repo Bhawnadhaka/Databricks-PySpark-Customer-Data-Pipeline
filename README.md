@@ -71,7 +71,8 @@ Identified interesting customer segments:
 - Monthly spending patterns
 
 ### 7. Data Export and Download
-The output files were downloaded to my local machine, and the zip file is available at: [link to your zip file]
+The output files were downloaded to my local machine, and the zip file is available at: 
+https://github.com/Bhawnadhaka/Databricks-PySpark-Customer-Data-Pipeline/blob/main/final_output%20(1).zip
 
 ## Key Findings
 - Identified geographic distribution of customers across Indian states
