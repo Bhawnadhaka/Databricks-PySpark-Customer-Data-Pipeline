@@ -1,8 +1,6 @@
 # Databricks-PySpark-Customer-Data-Pipeline
 
 
-# Customer Data Analysis Project
-
 ## Platform and Technical Details
 - **Platform**: Databricks
 - **Language**: PySpark (Spark 3.3.2)
